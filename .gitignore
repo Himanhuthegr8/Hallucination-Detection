@@ -1,0 +1,11 @@
+*private-key*
+*.pem
+*.key
+*.parquet
+*.safetensors
+*.bin
+checkpoint-*/
+cluster_results/
+.venv/
+__pycache__/
+*.pyc
